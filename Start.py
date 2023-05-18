@@ -1,4 +1,5 @@
 if __name__ == '__main__':
+    print("hello git branch")
     print("hello git")
     print("master")
     print("aaa")
